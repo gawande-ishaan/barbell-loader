@@ -1,0 +1,5 @@
+- Should be able to type in a weight, for it to output a graphic visual as well as a text visual.
+- Must have a "clear bar" option
+- Try adding a swiper, increment in 5lbs.
+- based on user input, add the plates that i need into an array. 
+   Now, as i add into the array, based on each plates width, ill add that width to the next plates position
